@@ -1,0 +1,21 @@
+{
+  "name": "Task-list",
+  "version": "1.0.0",
+  "description": "a todo/task list app",
+  "main": "script.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timeades/Task-list.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timeades/Task-list/issues"
+  },
+  "homepage": "https://github.com/timeades/Task-list#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.29.1"
+  }
+}
